@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dip</folder>
+	<filename>dip_1331867215.avi_image14.png</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\test\dip\dip_1331867215.avi_image14.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>659</xmin>
+			<ymin>125</ymin>
+			<xmax>714</xmax>
+			<ymax>186</ymax>
+		</bndbox>
+	</object>
+</annotation>

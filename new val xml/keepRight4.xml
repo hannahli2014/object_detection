@@ -1,0 +1,26 @@
+<annotation>
+	<folder>keepRight</folder>
+	<filename>keepRight4.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\test\keepRight\keepRight4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>211</width>
+		<height>239</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>keepRight</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>90</xmin>
+			<ymin>11</ymin>
+			<xmax>129</xmax>
+			<ymax>65</ymax>
+		</bndbox>
+	</object>
+</annotation>

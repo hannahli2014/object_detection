@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speedLimit35</folder>
+	<filename>speedLimit35_1333395007.avi_image10.png</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\test\speedLimit35\speedLimit35_1333395007.avi_image10.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1024</width>
+		<height>522</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speedLimit35</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>757</xmin>
+			<ymin>155</ymin>
+			<xmax>791</xmax>
+			<ymax>196</ymax>
+		</bndbox>
+	</object>
+</annotation>
