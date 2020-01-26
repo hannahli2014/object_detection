@@ -1,0 +1,26 @@
+<annotation>
+	<folder>speedLimit50</folder>
+	<filename>speedLimit508.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\train\speedLimit50\speedLimit508.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>327</width>
+		<height>154</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>speedLimit50</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>141</xmin>
+			<ymin>43</ymin>
+			<xmax>178</xmax>
+			<ymax>110</ymax>
+		</bndbox>
+	</object>
+</annotation>

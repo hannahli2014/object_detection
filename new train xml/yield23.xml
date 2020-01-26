@@ -1,0 +1,26 @@
+<annotation>
+	<folder>yield</folder>
+	<filename>yield23.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\train\yield\yield23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>294</width>
+		<height>171</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>yield</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>237</xmin>
+			<ymin>24</ymin>
+			<xmax>268</xmax>
+			<ymax>54</ymax>
+		</bndbox>
+	</object>
+</annotation>

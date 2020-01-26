@@ -1,0 +1,26 @@
+<annotation>
+	<folder>stop</folder>
+	<filename>stop10.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\train\stop\stop10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>281</width>
+		<height>180</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>stop</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>9</ymin>
+			<xmax>50</xmax>
+			<ymax>37</ymax>
+		</bndbox>
+	</object>
+</annotation>
