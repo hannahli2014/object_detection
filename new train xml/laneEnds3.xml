@@ -1,0 +1,26 @@
+<annotation>
+	<folder>laneEnds</folder>
+	<filename>laneEnds3.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\train\laneEnds\laneEnds3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>248</width>
+		<height>203</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>laneEnds</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>40</xmin>
+			<ymin>7</ymin>
+			<xmax>197</xmax>
+			<ymax>162</ymax>
+		</bndbox>
+	</object>
+</annotation>

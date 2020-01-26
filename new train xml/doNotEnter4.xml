@@ -1,0 +1,26 @@
+<annotation>
+	<folder>doNotEnter</folder>
+	<filename>doNotEnter4.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\train\doNotEnter\doNotEnter4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>182</width>
+		<height>276</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doNotEnter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>99</xmin>
+			<ymin>53</ymin>
+			<xmax>170</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+</annotation>

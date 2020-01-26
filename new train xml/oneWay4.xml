@@ -1,0 +1,26 @@
+<annotation>
+	<folder>oneWay</folder>
+	<filename>oneWay4.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\train\oneWay\oneWay4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>oneWay</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>108</xmin>
+			<ymin>39</ymin>
+			<xmax>197</xmax>
+			<ymax>72</ymax>
+		</bndbox>
+	</object>
+</annotation>

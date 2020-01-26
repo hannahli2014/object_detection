@@ -1,0 +1,26 @@
+<annotation>
+	<folder>doNotEnter</folder>
+	<filename>doNotEnter9.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\train\doNotEnter\doNotEnter9.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>266</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>doNotEnter</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>143</xmin>
+			<ymin>9</ymin>
+			<xmax>171</xmax>
+			<ymax>35</ymax>
+		</bndbox>
+	</object>
+</annotation>

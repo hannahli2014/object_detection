@@ -1,0 +1,26 @@
+<annotation>
+	<folder>dip</folder>
+	<filename>dip12.jpg</filename>
+	<path>C:\Users\hanna\OneDrive\Desktop\images\train\dip\dip12.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>193</width>
+		<height>261</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>dip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>43</ymin>
+			<xmax>168</xmax>
+			<ymax>195</ymax>
+		</bndbox>
+	</object>
+</annotation>
